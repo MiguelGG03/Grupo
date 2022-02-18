@@ -13,7 +13,7 @@
 
 
 
-#EJERCICIO 7
+# EJERCICIO 7
 Un profesor planea organizar un viaje escolar. El coste del viaje depende de la cantidad de alumnos participantes. Nos piden establecer el algoritmo de cálculo del precio de coste por alumno y del coste global del viaje en función de la cantidad de alumnos.
 ''' Algoritmo viaje_escolar
 Definir variables:
@@ -44,7 +44,7 @@ Mostrar costes
 
 
 
-#EJERCICIO 8
+# EJERCICIO 8
 A final de año, la empresa LA CAMPANA paga una prima anual a sus empleados camioneros. Escribir el algoritmo de cálculo de la prima anual que se concederá la empresa a cada conductor.
  
     
