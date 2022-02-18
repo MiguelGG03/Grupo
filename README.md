@@ -37,7 +37,7 @@ coste_alojamiento:
 coste_alumno = precio_alumno + coste_comida + coste_alojamiento
 coste_total = coste_alumno * numero_alumnos
 
-Mostrar costes'''
+Mostrar costes '''
 
 
 
