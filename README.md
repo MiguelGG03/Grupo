@@ -15,7 +15,7 @@
 
 # EJERCICIO 7
 Un profesor planea organizar un viaje escolar. El coste del viaje depende de la cantidad de alumnos participantes. Nos piden establecer el algoritmo de cálculo del precio de coste por alumno y del coste global del viaje en función de la cantidad de alumnos.
-''' Algoritmo viaje_escolar
+```Algoritmo viaje_escolar
 Definir variables:
   numero_alumnos: ENTERO
   numero_dias: ENTERO
@@ -37,7 +37,7 @@ coste_alojamiento:
 coste_alumno = precio_alumno + coste_comida + coste_alojamiento
 coste_total = coste_alumno * numero_alumnos
 
-Mostrar costes '''
+Mostrar costes ```
 
 
 
