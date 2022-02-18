@@ -86,7 +86,7 @@ Realización
 		Resultado ← (prima_antigüedad + prima_distancia)/REAL(accidentes + 1)
 	fin si
 	
-Postcondición:
+Postcondición
   Mostrar resultado
 ...
  
